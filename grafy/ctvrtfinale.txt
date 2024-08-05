@@ -324,10 +324,14 @@ Highcharts.chart('ctvrtfinale',
   visible: true,
   type: 'column'
 }],
+  subtitle: {
+  align: 'left',
+  text: 'Do nejvíce ètvrtfinále (èi odpovídající skupinové fáze) evropských soutìží se podívalo Dynamo Kyjev, v 15 sezonách. Druhá je Rudá hvìzda Bìlehrad a na støetím sdíleném místì s 8 takto úspìšnými sezonami Dynamo Drážïany, Spartak Moskva a Sparta Praha. Ta naposledy hrála ètvrtfinále Evropské ligy na jaøe 2016, vyøadil ji v nìm Villarreal.'
+},
   title: {
   align: 'left',
   margin: 30,
-  text: 'Východoevropské kluby mezi 8 nejlepšími'
+  text: 'Východoevropské kluby mezi 8 nejlepšími v evropských pohárech'
 },
   xAxis: {
   categories: ['1955-56',
